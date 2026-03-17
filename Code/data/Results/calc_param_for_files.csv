@@ -1,0 +1,20 @@
+#gev-mu=70,alpha=10,gamma=0.3,N=e3.csv
+VWLS, mu=69.820584, alpha=8.774903, gamma=0.351513
+MLE, mu=69.506768, alpha=9.611716, gamma=0.325619
+PWM, mu=69.778496, alpha=10.126298, gamma=0.268577
+L-moments, mu=69.707935, alpha=9.955531, gamma=0.281178
+#gev-mu=70,alpha=10,gamma=0.3,N=e3b.csv
+VWLS, mu=69.820584, alpha=8.774903, gamma=0.351513
+MLE, mu=69.506768, alpha=9.611716, gamma=0.325619
+PWM, mu=69.778496, alpha=10.126298, gamma=0.268577
+L-moments, mu=69.707935, alpha=9.955531, gamma=0.281178
+#gev-mu=70,alpha=10,gamma=0.3,N=e4.csv
+VWLS, mu=69.820997, alpha=10.238463, gamma=0.269641
+MLE, mu=69.828518, alpha=9.820916, gamma=0.291145
+PWM, mu=69.842585, alpha=9.841867, gamma=0.286922
+L-moments, mu=69.835693, alpha=9.824753, gamma=0.288179
+#gev-mu=70,alpha=10,gamma=0.3,N=e4b.csv
+VWLS, mu=69.820997, alpha=10.238463, gamma=0.269641
+MLE, mu=69.828518, alpha=9.820916, gamma=0.291145
+PWM, mu=69.842585, alpha=9.841867, gamma=0.286922
+L-moments, mu=69.835693, alpha=9.824753, gamma=0.288179
