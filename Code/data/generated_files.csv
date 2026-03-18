@@ -40,3 +40,6 @@ gev-mu=700,alpha=10,gamma=0.3,N=e6.csv
 gev-mu=700,alpha=10,gamma=-0.3,N=e6.csv
 gev-mu=700,alpha=100,gamma=0.3,N=e6.csv
 gev-mu=700,alpha=100,gamma=-0.3,N=e6.csv
+gev-mu=70,alpha=10,gamma=0,N=e6.csv
+gev-mu=70,alpha=10,gamma=0.4,N=e6.csv
+gev-mu=70,alpha=10,gamma=0.6,N=e6.csv
